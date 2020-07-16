@@ -1,0 +1,2 @@
+C:\Users\90538\source\repos\to_do_list\to_do_list\obj\Debug\to_do_list.njsproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\to_do_list\to_do_list\bin\Microsoft.NodejsTools.WebRole.dll
